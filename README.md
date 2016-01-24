@@ -1,4 +1,4 @@
-Um exemplo simples de *module folding* usando Webpack.
+Um exemplo simples de *module folding* usando [Webpack](https://webpack.github.io/).
 
 ```sh
 # Baixar e instalar o exemplo:
