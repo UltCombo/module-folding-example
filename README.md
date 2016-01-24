@@ -1,4 +1,4 @@
-Um exemplo simples de *module folding* usando [Webpack](https://webpack.github.io/).
+Um exemplo simples de *module folding* (*tree-shaking*) usando [Webpack](https://webpack.github.io/).
 
 ```sh
 # Baixar e instalar o exemplo:
