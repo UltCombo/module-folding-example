@@ -1,4 +1,4 @@
-export function adiciona(a, b) {
+export function soma(a, b) {
 	return a + b;
 }
 

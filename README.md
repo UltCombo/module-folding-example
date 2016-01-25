@@ -6,7 +6,7 @@ git clone https://github.com/UltCombo/module-folding-example.git
 cd module-folding-example
 npm install
 
-# Gerar pacote com module folding usando Webpack:
+# Gerar *bundle* com module folding usando Webpack:
 npm run build
 
 # Rodar o código gerado:
