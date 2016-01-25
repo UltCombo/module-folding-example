@@ -11,6 +11,7 @@ export function elevaAoQuadrado(n) {
 }
 
 var dois = 2;
+
 export function metade(n) {
 	return n / dois;
 }
